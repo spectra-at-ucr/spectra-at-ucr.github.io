@@ -1,5 +1,5 @@
 ---
-title: Sample post
+title: Sample Post
 tags: info
 article_header:
   type: cover
