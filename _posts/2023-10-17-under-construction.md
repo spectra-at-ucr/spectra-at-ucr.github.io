@@ -1,10 +1,7 @@
 ---
 title: Under Construction
 tags: info
-article_header:
-  type: cover
-  image:
-    src: /assets/images/jordan-mcdonald-Bzd1qPySNvk-unsplash.jpg
+layout: article
 ---
 
 The website is currently under construction! Please check back later for more information and updates.
