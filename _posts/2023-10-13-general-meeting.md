@@ -1,5 +1,7 @@
 ---
 title: General Meeting, October 13, 2023
+tags:
+- General Meeting
 ---
 
 Agenda:
