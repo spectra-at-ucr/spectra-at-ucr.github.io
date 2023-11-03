@@ -35,7 +35,7 @@ Adjacent Organizations
   - More info from UCR: [Link](https://out.ucr.edu/events/trans-remembrance-display)
 
 
-# Notes from the meeting
+# Initial Notes
 
 Future Plans:
 - Apply to become an official chapter! 
@@ -46,5 +46,6 @@ Suggestions from Form:
 - Understanding and respecting queer and trans people and identities: a mathematician's guide (for a general audience within the department)
 - Outdoor activities such as hiking, bowling, visiting a place such a museum or a great restaurant, etc.
 
+# Notes from the Meeting
 
 Check back later!
