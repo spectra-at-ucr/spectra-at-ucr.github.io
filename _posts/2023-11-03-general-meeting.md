@@ -54,5 +54,5 @@ Suggestions from Form:
   - President: Will Hoffer
   - Secretary: Mark Sandey
   - Treasurer: Luis Palacios Vela
-  - At Large Officers: Corryn Bottenfield, Vahagan Tovmasian
+  - At Large Officers: Corryn Bottenfield, Vahagn Tovmasian
 - Next General Meeting: December 1
