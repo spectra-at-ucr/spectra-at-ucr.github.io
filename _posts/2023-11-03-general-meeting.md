@@ -48,4 +48,11 @@ Suggestions from Form:
 
 # Notes from the Meeting
 
-Check back later!
+- Vote to change "LGBTQ" to "queer and trans" in the mission statement and bylaws (Unanimous)
+- Vote to ratify bylaws (Unanimous)
+- Vot for Officers (Unanimous):
+  - President: Will Hoffer
+  - Secretary: Mark Sandey
+  - Treasurer: Luis Palacios Vela
+  - At Large Officers: Corryn Bottenfield, Vahagan Tovmasian
+- Next General Meeting: December 1
