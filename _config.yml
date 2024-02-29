@@ -149,8 +149,6 @@ comments:
 pageview:
   provider: false # false (default), "leancloud", "custom"
 
-future: true
-
   ## Leancloud
   leancloud:
     app_id    : # LeanCloud App id
