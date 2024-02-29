@@ -1,5 +1,5 @@
 ---
-title: Spectra Seminar, February 12
+title: Spectra Seminar, February 12, 2024
 tags:
 - General Meeting
 ---
