@@ -1,11 +1,11 @@
 ---
-title: Spectra Seminar, March 4
+title: Spectra Seminar, March 4, 2024
 tags:
 - General Meeting
 ---
 
 # Spectra Seminar at UCR
-Monday, 4-5pm in Skye 284
+Monday, March 4, 4-5pm in Skye 284
 
 ## Speaker: 
 Luis Palacios Vela (University of California, Riverside)
