@@ -1,5 +1,5 @@
 ---
-title: Spectra Board Game Lunch, March 6, 2025
+title: Spectra General Meeting, April 10, 2025
 tags:
 - General Meeting
 - Info
